@@ -60,9 +60,9 @@ Bank-Customer-Churn-Prediction/
 ## ▶️ How to Run the Project
 
 ### Step 1: Clone the Repository
-```bash
 git clone https://github.com/your-username/Bank-Customer-Churn-Prediction.git
 cd Bank-Customer-Churn-Prediction
+
 
 
 Step 2: Install Dependencies
@@ -96,14 +96,6 @@ Improve model accuracy with hyperparameter tuning
 
 ---
 
-## ▶️ How to Run the Project
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/your-username/Bank-Customer-Churn-Prediction.git
-cd Bank-Customer-Churn-Prediction
-
-
 Step 2: Install Dependencies
 
 pip install -r requirements.txt
@@ -126,6 +118,14 @@ Integrate real banking datasets
 Deploy app on Streamlit Cloud / AWS
 
 Improve model accuracy with hyperparameter tuning
+
+
+
+
+
+
+
+---
 
 
 
